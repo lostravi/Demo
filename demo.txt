@@ -1,2 +1,3 @@
 This is changed commitgit 
 this is next paragraph added 
+now third line added
